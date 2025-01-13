@@ -1,0 +1,11 @@
+D:\ивохуген\backend\Todo.API\Todo.Core\bin\Debug\net8.0\Todo.Core.deps.json
+D:\ивохуген\backend\Todo.API\Todo.Core\bin\Debug\net8.0\Todo.Core.dll
+D:\ивохуген\backend\Todo.API\Todo.Core\bin\Debug\net8.0\Todo.Core.pdb
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\Todo.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\Todo.Core.AssemblyInfoInputs.cache
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\Todo.Core.AssemblyInfo.cs
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\Todo.Core.csproj.CoreCompileInputs.cache
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\Todo.Core.dll
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\refint\Todo.Core.dll
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\Todo.Core.pdb
+D:\ивохуген\backend\Todo.API\Todo.Core\obj\Debug\net8.0\ref\Todo.Core.dll
